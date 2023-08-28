@@ -445,3 +445,5 @@
   </profiles>
 
 </project>
+
+<packaging>jar</packaging>
